@@ -7,8 +7,8 @@
 
 void printHeader() {
   Serial.println("\n╔═══════════════════════════════════════╗");
-  Serial.println("║  ESP32 I2C SWERVE - MODULAR .h       ║");
-  Serial.println("╚═══════════════════════════════════════╝");
+  Serial.println("║       ESP32 I2C SWERVE -            .h  ║");
+  Serial.println("╚═════════════════════════════════════════╝");
 }
 
 void printStatus() {
